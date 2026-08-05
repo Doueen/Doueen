@@ -33,11 +33,7 @@
 ### 📋 [shearPlateTool](https://github.com/Doueen/shearPlateTool)
 剪贴板工具（最新版在 Gitee）
 
-### 🧠 [TechnologyLearn](https://github.com/Doueen/TechnologyLearn)
-技术学习记录
 
-### 🖼 [cloudimg](https://github.com/Doueen/cloudimg)
-图片处理工具
 
 ---
 
