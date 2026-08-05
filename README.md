@@ -32,36 +32,22 @@ $ doueen --info
 
 ## 📡 在线项目
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/Doueen/opencode-usage-extension">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Doueen&repo=opencode-usage-extension&theme=onedark&hide_border=true" />
-</a>
-<br/><sub>📊 浏览器扩展 · OpenCode 用量监控</sub>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/Doueen/floral-notepaper">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Doueen&repo=floral-notepaper&theme=onedark&hide_border=true" />
-</a>
-<br/><sub>📝 花笺 · 轻量优雅的跨平台桌面便签</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/Doueen/agentWar">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Doueen&repo=agentWar&theme=onedark&hide_border=true" />
-</a>
-<br/><sub>🤖 Agent 对战研究</sub>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/Doueen/shearPlateTool">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Doueen&repo=shearPlateTool&theme=onedark&hide_border=true" />
-</a>
-<br/><sub>📋 剪贴板工具</sub>
-</td>
-</tr>
-</table>
+### 🔭 [opencode-usage-extension](https://github.com/Doueen/opencode-usage-extension)
+浏览器扩展 · OpenCode 用量监控（配额 + 余额 + 5 主题 + 工具栏角标）
+
+[![GitHub stars](https://img.shields.io/github/stars/Doueen/opencode-usage-extension?style=for-the-badge&color=00e5ff)](https://github.com/Doueen/opencode-usage-extension)
+[![License](https://img.shields.io/github/license/Doueen/opencode-usage-extension?style=for-the-badge&color=green)](https://github.com/Doueen/opencode-usage-extension)
+
+### 📝 [floral-notepaper](https://github.com/Doueen/floral-notepaper)
+花笺 · 轻量优雅的跨平台桌面便签工具，支持 Markdown 编辑与预览
+
+[![GitHub stars](https://img.shields.io/github/stars/Doueen/floral-notepaper?style=for-the-badge&color=00e5ff)](https://github.com/Doueen/floral-notepaper)
+
+### 🤖 [agentWar](https://github.com/Doueen/agentWar)
+Agent 对战研究
+
+### 📋 [shearPlateTool](https://github.com/Doueen/shearPlateTool)
+剪贴板工具（最新版在 Gitee）
 
 ## 🛠 技术栈
 
@@ -81,9 +67,21 @@ $ doueen --info
 ## 📊 数据面板
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Doueen&show_icons=true&theme=onedark&hide_border=true&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doueen&layout=compact&theme=onedark&hide_border=true" height="160" />
+<img src="https://img.shields.io/badge/公开仓库-6%20repos-00e5ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/关注者-4%20followers-00e5ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/获得-93%20stars-ffd700?style=for-the-badge" />
 </p>
+
+<details>
+<summary><b>📈 最近动态（点击展开）</b></summary>
+
+<br/>
+
+- 🚀 发布 [opencode-usage-extension v1.0.3](https://github.com/Doueen/opencode-usage-extension/releases) —— 修复登录态读取
+- ✨ 部署个人网站 doueen.cn（深空终端 HUD 风格）
+- 🎲 研究生成式无限游戏与 AutoBG 桌游自动设计
+
+</details>
 
 ## 🎲 桌游与无限游戏研究
 
