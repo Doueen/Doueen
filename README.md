@@ -30,16 +30,14 @@
 [![stars](https://img.shields.io/github/stars/Doueen/opencode-usage-extension?style=for-the-badge&color=00e5ff)](https://github.com/Doueen/opencode-usage-extension)
 [![license](https://img.shields.io/github/license/Doueen/opencode-usage-extension?style=for-the-badge&color=green)](https://github.com/Doueen/opencode-usage-extension)
 
-### 📝 [floral-notepaper](https://github.com/Doueen/floral-notepaper)
-花笺 · 轻量优雅的跨平台桌面便签工具，支持 Markdown 编辑与预览
-
-[![stars](https://img.shields.io/github/stars/Doueen/floral-notepaper?style=for-the-badge&color=00e5ff)](https://github.com/Doueen/floral-notepaper)
-
-### 🤖 [agentWar](https://github.com/Doueen/agentWar)
-Agent 对战研究
-
 ### 📋 [shearPlateTool](https://github.com/Doueen/shearPlateTool)
 剪贴板工具（最新版在 Gitee）
+
+### 🧠 [TechnologyLearn](https://github.com/Doueen/TechnologyLearn)
+技术学习记录
+
+### 🖼 [cloudimg](https://github.com/Doueen/cloudimg)
+图片处理工具
 
 ---
 
