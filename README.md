@@ -1,32 +1,24 @@
 <div align="center">
 
-```
-██████╗  ██████╗ ██╗   ██╗███████╗███████╗███╗   ██╗
-██╔══██╗██╔═══██╗██║   ██║██╔════╝██╔════╝████╗  ██║
-██║  ██║██║   ██║██║   ██║█████╗  █████╗  ██╔██╗ ██║
-██║  ██║██║   ██║██║   ██║██╔══╝  ██╔══╝  ██║╚██╗██║
-██████╔╝╚██████╔╝╚██████╔╝███████╗███████╗██║ ╚████║
-╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═══╝
-
-```
-
-### `> whoami`
+# 👋 Hi, I'm doueen
 
 **独立开发者 · 桌游爱好者 · 生成式无限游戏研究者**
 
-```bash
-$ doueen --info
-{
-  "name": "Hongzheng Zhang",
-  "alias": "doueen",
-  "location": "China",
-  "focus": ["AI 应用", "生成式无限游戏", "开发工具"],
-  "hobby": "Board games 🎲 (AutoBG 研究员)",
-  "status": "building opencode-usage-extension"
-}
-```
+`> system online · 每天都有新想法 · 欢迎交流 ✦`
 
 </div>
+
+---
+
+## 🧑‍💻 关于我
+
+| | |
+|---|---|
+| 👤 **名字** | Hongzheng Zhang (doueen) |
+| 📍 **位置** | China |
+| 🎯 **专注** | AI 应用 · 生成式无限游戏 · 开发工具 |
+| 🎲 **爱好** | 桌游（AutoBG 自动设计研究者） |
+| 🚀 **现状** | 开发 opencode-usage-extension |
 
 ---
 
@@ -35,19 +27,21 @@ $ doueen --info
 ### 🔭 [opencode-usage-extension](https://github.com/Doueen/opencode-usage-extension)
 浏览器扩展 · OpenCode 用量监控（配额 + 余额 + 5 主题 + 工具栏角标）
 
-[![GitHub stars](https://img.shields.io/github/stars/Doueen/opencode-usage-extension?style=for-the-badge&color=00e5ff)](https://github.com/Doueen/opencode-usage-extension)
-[![License](https://img.shields.io/github/license/Doueen/opencode-usage-extension?style=for-the-badge&color=green)](https://github.com/Doueen/opencode-usage-extension)
+[![stars](https://img.shields.io/github/stars/Doueen/opencode-usage-extension?style=for-the-badge&color=00e5ff)](https://github.com/Doueen/opencode-usage-extension)
+[![license](https://img.shields.io/github/license/Doueen/opencode-usage-extension?style=for-the-badge&color=green)](https://github.com/Doueen/opencode-usage-extension)
 
 ### 📝 [floral-notepaper](https://github.com/Doueen/floral-notepaper)
 花笺 · 轻量优雅的跨平台桌面便签工具，支持 Markdown 编辑与预览
 
-[![GitHub stars](https://img.shields.io/github/stars/Doueen/floral-notepaper?style=for-the-badge&color=00e5ff)](https://github.com/Doueen/floral-notepaper)
+[![stars](https://img.shields.io/github/stars/Doueen/floral-notepaper?style=for-the-badge&color=00e5ff)](https://github.com/Doueen/floral-notepaper)
 
 ### 🤖 [agentWar](https://github.com/Doueen/agentWar)
 Agent 对战研究
 
 ### 📋 [shearPlateTool](https://github.com/Doueen/shearPlateTool)
 剪贴板工具（最新版在 Gitee）
+
+---
 
 ## 🛠 技术栈
 
@@ -83,6 +77,8 @@ Agent 对战研究
 
 </details>
 
+---
+
 ## 🎲 桌游与无限游戏研究
 
 > 正在探索 **生成式无限游戏**（Generative Infinite Games）——AI 驱动的世界持续生长、剧情永不完结的交互媒介。基于 AutoBG 论文的桌游自动设计研究。
@@ -92,12 +88,14 @@ Agent 对战研究
 
 <br/>
 
-- 🌌 世界持续生成：运行时不依赖预设剧本，AI 实时生成场景与事件
-- 🎭 角色涌现：NPC 拥有持久记忆与自主行为
-- 📜 永续剧情：叙事永不终结，玩家每次进入都是新的故事
-- 🎲 桌游自动设计：从规则生成到机制平衡（AutoBG）
+- 🌌 **世界持续生成**：运行时不依赖预设剧本，AI 实时生成场景与事件
+- 🎭 **角色涌现**：NPC 拥有持久记忆与自主行为
+- 📜 **永续剧情**：叙事永不终结，玩家每次进入都是新的故事
+- 🎲 **桌游自动设计**：从规则生成到机制平衡（AutoBG）
 
 </details>
+
+---
 
 ## 📬 联系
 
@@ -107,14 +105,6 @@ Agent 对战研究
 <a href="https://doueen.cn"><img src="https://img.shields.io/badge/Website-doueen.cn-00e5ff?style=for-the-badge&logo=internetexplorer&logoColor=white" /></a>
 </p>
 
----
-
-<div align="center">
-
-```
-[ system online ] · 每天都有新想法 · 欢迎交流 ✦
-```
-
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=Doueen&color=00e5ff&style=flat" alt="访客计数" />
-
-</div>
+</p>
