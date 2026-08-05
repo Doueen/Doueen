@@ -25,7 +25,7 @@
 ## 📡 在线项目
 
 ### 🔭 [opencode-usage-extension](https://github.com/Doueen/opencode-usage-extension)
-浏览器扩展 · OpenCode 用量监控（配额 + 余额 + 5 主题 + 工具栏角标）
+浏览器扩展 · OpenCode 用量监控：Go 订阅配额（三周期 + 重置倒计时）+ DeepSeek 余额 · 5 种主题 · 自定义刷新频率 · 工具栏角标
 
 [![stars](https://img.shields.io/github/stars/Doueen/opencode-usage-extension?style=for-the-badge&color=00e5ff)](https://github.com/Doueen/opencode-usage-extension)
 [![license](https://img.shields.io/github/license/Doueen/opencode-usage-extension?style=for-the-badge&color=green)](https://github.com/Doueen/opencode-usage-extension)
