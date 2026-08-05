@@ -61,7 +61,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/公开仓库-6%20repos-00e5ff?style=for-the-badge" />
 <img src="https://img.shields.io/badge/关注者-4%20followers-00e5ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/获得-93%20stars-ffd700?style=for-the-badge" />
 </p>
 
 <details>
